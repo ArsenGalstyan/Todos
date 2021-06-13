@@ -1,0 +1,17 @@
+*{
+    list-style-type: none;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+.main{
+    width: 40vw;
+    height: 50vh;
+    margin: 0 auto;
+    text-align: center;
+}
+.mnacac{
+    background-color: aqua;
+    border: 2px solid black;
+}
